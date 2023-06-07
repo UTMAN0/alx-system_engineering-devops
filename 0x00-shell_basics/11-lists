@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ./list_all_files
+ls -la /boot
